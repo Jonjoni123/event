@@ -1,4 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-STREAM-INF:BANDWIDTH=2285542,CODECS="avc1.640028,mp4a.40.2",RESOLUTION=1920x1080
+#EXT-X-MEDIA-SEQUENCE:1794
+#EXT-X-ALLOW-CACHE:YES
+#EXT-X-TARGETDURATION:10
 https://3gr4dymttgwanhqjqghssg3dqp3zzqh5wqj1sn5jqcpzs4.wslivehls.com/cdnnowstream.com/cdnnow/live202/playlist.m3u8?wsSecret=17b42321112c27fc3874758ddf997e75&wsTime=1738256138&site=wintv&wsSession=2cf030dc68706d0b2fce30f3-173825610904439&wsIPSercert=3e83ebc8c3f4eaa08626d4b24bfa7fd1&wsiphost=local&wsBindIP=1
