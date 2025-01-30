@@ -1,1 +1,4 @@
-
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=2285542,CODECS="avc1.640028,mp4a.40.2",RESOLUTION=1920x1080
+https://cdnapi.megame.org/lives/ee991cc098a40d854d952b9e00ebf4a0/playlist.m3u8
