@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=4387120,CODECS="avc1.640028,mp4a.40.2",RESOLUTION=1920x1080
-https://cdnbl.megame.org/live/6de3b90fc90d/chunklist.m3u8
+https://cdnapi.megame.org/lives/3ffa59fab654eb56a742a7715bb8ff0d/playlist.m3u8
