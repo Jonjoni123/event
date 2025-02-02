@@ -1,4 +1,4 @@
 #EXTM3U 
 #EXT-X-VERSION:3 
 #EXT-X-STREAM-INF:BANDWIDTH=2285542,CODECS="avc1.640028,mp4a.40.2",RESOLUTION=1920x1080
-https://jf4.naqsheala.com:999/hls/mespndeportes.m3u8?md5=EYqmkG7aKy9tUdtBsQADKw&expires=1738520730
+https://jf2.naqsheala.com:999/hls/mevent1-3382.ts
