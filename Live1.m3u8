@@ -1,7 +1,4 @@
 #EXTM3U 
 #EXT-X-VERSION:3 
 #EXT-X-STREAM-INF:BANDWIDTH=2285542,CODECS="avc1.640028,mp4a.40.2",RESOLUTION=1920x1080
-https://www.radartv.in/live/21730/index.m3u8?md5=RU9gaF7wWhoy0lys0sgFaw&expires=1738524343
-
-
 https://live.cdnlive.pro/live/_definst_/stream_1_a86e6@paosd1/chunklist.m3u8
