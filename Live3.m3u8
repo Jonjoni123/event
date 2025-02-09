@@ -1,4 +1,7 @@
 #EXTM3U 
 #EXT-X-VERSION:3 
 #EXT-X-STREAM-INF:BANDWIDTH=2285542,CODECS="avc1.640028,mp4a.40.2",RESOLUTION=1920x1080
+https://livecdn.rumsport.com/stream/25/chunks.m3u8?token=b2f257265d821e4368933fce5518ba6b8957812a&is_vip=false&verify=1739118180-gC9REFsf0tQtAzjzmE4eyE%2FL4UYaG%2FyeXVyjyK79xgE%3D
+
+
 https://cdn.footballii.ir/hls2/bein1.m3u8
