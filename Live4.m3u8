@@ -1,7 +1,17 @@
-#EXTM3U 
-#EXT-X-VERSION:3 
-#EXT-X-STREAM-INF:BANDWIDTH=2285542,CODECS="avc1.640028,mp4a.40.2",RESOLUTION=1920x1080
-https://director.mgi9ehlj7z061brnpp28wr2x7n9wvpr10.click/v4/variant/VE1gTdz0mLzRnLv52bt9SMhFjdtM3ajFmc09CMygDZ0EjYiRjN4YWLiFGN40yNzYGNtgDNxIWL0ETZjNWYkR2L.m3u8
+#EXT-X-TARGETDURATION:7
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:61772
+#EXT-X-PROGRAM-DATE-TIME:2025-02-25T17:33:32.286Z
+#EXTINF:6.000,
+https://ve16o28z6o8dszgkty1jni7ulo3ba4jt.global.ssl.fastly.net/v3/fragment/ddacce14-b148-4f37-84ab-f864bb14d820/tracks-v1a1/2025/02/25/17/33/32-06000.ts
+#EXTINF:6.000,
+https://ve16o28z6o8dszgkty1jni7ulo3ba4jt.global.ssl.fastly.net/v3/fragment/ddacce14-b148-4f37-84ab-f864bb14d820/tracks-v1a1/2025/02/25/17/33/38-06000.ts
+#EXTINF:5.200,
+https://ve16o28z6o8dszgkty1jni7ulo3ba4jt.global.ssl.fastly.net/v3/fragment/ddacce14-b148-4f37-84ab-f864bb14d820/tracks-v1a1/2025/02/25/17/33/44-05200.ts
+#EXTINF:5.840,
+https://ve16o28z6o8dszgkty1jni7ulo3ba4jt.global.ssl.fastly.net/v3/fragment/ddacce14-b148-4f37-84ab-f864bb14d820/tracks-v1a1/2025/02/25/17/33/49-05840.ts
+#EXTINF:6.960,
+https://ve16o28z6o8dszgkty1jni7ulo3ba4jt.global.ssl.fastly.net/v3/fragment/ddacce14-b148-4f37-84ab-f864bb14d820/tracks-v1a1/2025/02/25/17/33/55-06960.ts
 
 
 #https://sss.vffddd.online:443/bein4/tracks-v1a1/mono.ts.m3u8
