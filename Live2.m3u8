@@ -5,4 +5,6 @@
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 #KODIPROP:inputstream.ffmpegdirect.open_mode=ffmpeg
 #EXT-X-STREAM-INF:AVERAGE-BANDWIDTH=2520000,BANDWIDTH=3150000,RESOLUTION=1024x576,FRAME-RATE=25.000,CODECS="avc1.640028,mp4a.40.2,mp4a.40.2",CLOSED-CAPTIONS=NONE
+http://12.troya.info:34000/ch1990/mono.m3u8?token=padurarunick1._cq6UKuIYBZy9-Z9InEiziIxzb2uEd0guSOgfUcYlsFmIlQyNHsek1t6CTiE9Umt
+
 https://sss.vffddd.online:443/bein2/tracks-v1a1/mono.ts.m3u8
