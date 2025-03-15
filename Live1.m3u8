@@ -1,6 +1,8 @@
 #EXTM3U 
 #EXT-X-VERSION:3 
 #EXT-X-STREAM-INF:BANDWIDTH=2285542,CODECS="avc1.640028,mp4a.40.2",RESOLUTION=1920x1080
+http://12.troya.info:34000/ch1989/mono.m3u8?token=padurarunick1._cq6UKuIYBZy9-Z9InEiziIxzb2uEd0guSOgfUcYlsFmIlQyNHsek1t6CTiE9Umt
+
 https://sss.vffddd.online:443/bein1/tracks-v1a1/mono.ts.m3u8
 
 https://live.cdnlive.pro/live/_definst_/stream_1_a86e6@paosd1/chunklist.m3u8
