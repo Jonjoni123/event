@@ -1,6 +1,6 @@
 #EXTM3U 
 #EXT-X-VERSION:3 
 #EXT-X-STREAM-INF:BANDWIDTH=2285542,CODECS="avc1.640028,mp4a.40.2",RESOLUTION=1920x1080
-http://10.troya.info:34000/ch2132/mono.m3u8?token=arta01.UZ72cgG6Jb0rQ-IjCtJL2YtHxiK3aFxQvjxhFDbJYmARsfSR-KA8DagiF5EJROJT
+https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=sky1nz
 
 #https://sss.vffddd.online:443/bein4/tracks-v1a1/mono.ts.m3u8
