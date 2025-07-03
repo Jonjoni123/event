@@ -1,12 +1,7 @@
 #EXTM3U 
 #EXT-X-VERSION:3 
 #EXT-X-STREAM-INF:BANDWIDTH=2285542,CODECS="avc1.640028,mp4a.40.2",RESOLUTION=1920x1080
-#KODIPROP:contentlookup=False
-#KODIPROP:mimetype=application/vnd.apple.mpegurl
-#KODIPROP:inputstream=inputstream.adaptive
-https://www.radartv.in/sport/19640/playlist.m3u8?t=1751565258&token=f41f48581dd2ea55ef8556381604debd
-
-#https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=bbtsp1
+https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=bbtsp1
 
 #https://sss.vffddd.online:443/bein1/tracks-v1a1/mono.ts.m3u8
 
